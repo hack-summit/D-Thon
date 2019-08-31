@@ -1,1 +1,2 @@
 # D-Thon
+We are developing blockchian based banking system which would be decentralized system based on serverless computing and they do have the inhouse computing system which have to update the logs at the end of the days trannsactions and the whole system will go down for some sort of time which will result on the daily updatation of the logs and further we are developing an ecosystem which will be further independent from the cashier or we can say the run time authenticator the whole work would be done by the miners itself .
